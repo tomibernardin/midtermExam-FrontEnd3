@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/midtermExam-FrontEnd3/static/css/main.0dfb8d59.css",
+    "main.js": "/midtermExam-FrontEnd3/static/js/main.79bd9e06.js",
+    "index.html": "/midtermExam-FrontEnd3/index.html",
+    "main.0dfb8d59.css.map": "/midtermExam-FrontEnd3/static/css/main.0dfb8d59.css.map",
+    "main.79bd9e06.js.map": "/midtermExam-FrontEnd3/static/js/main.79bd9e06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dfb8d59.css",
+    "static/js/main.79bd9e06.js"
+  ]
+}
